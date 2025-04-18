@@ -45,7 +45,7 @@
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshita-anand-4ab5731bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
