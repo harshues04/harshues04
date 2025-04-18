@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🌱 Currently learning **Deep Learning Architectures** and **Reinforcement Learning**  
 - 💡 Exploring innovative ideas using **Spiking Neural Networks** and **Agentic AI Systems**  
@@ -11,7 +11,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshues04&show_icons=true&theme=github_dark" width="48%"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |--------|-------------|
