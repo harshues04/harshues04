@@ -16,9 +16,6 @@ I am currently:
 - Building and evaluating learning-based systems with an emphasis on generalization  
 - Interested in responsible, interpretable, and robust AI systems  
 
-Contact:  
-[LinkedIn](https://www.linkedin.com/in/harshita-anand-4ab5731bb/) • [Email](mailto:anand.harshita04@gmail.com)
-
 ---
 
 ### Tech Stack
@@ -61,7 +58,7 @@ Contact:
 ### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshita-anand-4ab5731bb/">
+  <a href="https://www.linkedin.com/in/harshita-anand04/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:anand.harshita04@gmail.com">
